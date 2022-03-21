@@ -45,7 +45,10 @@ I have taken many courses, the list is given below, at the moment I am taking th
 * [Vanilla JS - paint-js](https://Aleksandr-Glebik.github.io/paint-js/);
 
 ***
-
+## Languages
+- Russian - Native;
+- English - A1 (studying now);
+- Polish - A1;
 
 
 
