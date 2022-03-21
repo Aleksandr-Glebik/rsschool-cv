@@ -37,5 +37,15 @@ I have taken many courses, the list is given below, at the moment I am taking th
     * [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/);
 ***
 
+## Projects Example
+* [JSFEPRESCHOOL-portfolio](https://Aleksandr-Glebik.github.io/portfolio-JSFEPRESCHOOL/portfolio/);
+* [JSFEPRESCHOOL-movie-app](https://Aleksandr-Glebik.github.io/movie-app-JSFEPRESCHOOL/movie-app/);
+* [JSFEPRESCHOOL-tic-tac-toe](https://Aleksandr-Glebik.github.io/tic-tac-toe-JSFEPRESCHOOL/tic-tac-toe/);
+* [JavaScript (from 0 to pro) - game-on-js](https://Aleksandr-Glebik.github.io/game-on-js/);
+* [Vanilla JS - paint-js](https://Aleksandr-Glebik.github.io/paint-js/);
+
+***
+
+
 
 
