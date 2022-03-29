@@ -37,7 +37,7 @@ I have taken many courses, the list is given below, at the moment I am taking th
     * [JavaScript (2021) Complete guide from 0 to pro](https://www.udemy.com/course/javascript-full-guide/);
     * [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/);
 
-* [![CodeWars](https://www.codewars.com/users/Aleksandr-Glebik/badges/small)](https://www.codewars.com/users/Aleksandr-Glebik);
+* [![CodeWars](https://www.codewars.com/users/Aleksandr-Glebik/badges/small)](https://www.codewars.com/users/Aleksandr-Glebik)
 ***
 
 ## Projects Example

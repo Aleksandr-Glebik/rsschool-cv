@@ -85,10 +85,10 @@ li {
   font-size: 1.4rem;
   list-style-type: none;
   margin-bottom: 0.5rem;
+  transition: 0.8s;
 }
 .info__text:hover {
   transform: scale(1.05);
-  transition: 0.8s;
 }
 
 .info__icon {
