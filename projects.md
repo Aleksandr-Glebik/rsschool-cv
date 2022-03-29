@@ -4,7 +4,7 @@
 
 ***
 
-## [Aleksandr Glebik - GitHub](https://Aleksandr-Glebik.github.io)
+## [Aleksandr Glebik - GitHub](https://github.com/Aleksandr-Glebik)
 ## [Aleksandr Glebik - CV](https://Aleksandr-Glebik.github.io/rsschool-cv/)
 
 [![CodeWars](https://www.codewars.com/users/Aleksandr-Glebik/badges/large)](https://www.codewars.com/users/Aleksandr-Glebik)
