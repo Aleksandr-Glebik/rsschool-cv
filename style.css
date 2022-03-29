@@ -164,6 +164,11 @@ li {
 .desc__text-strong {
   margin: 2rem;
 }
+.desc__text-link {
+  margin: 2rem 0;
+  align-self: start;
+  text-decoration: underline;
+}
 .desc__link {
   text-decoration: none;
   color: #000;
@@ -254,6 +259,10 @@ li {
 
 }
 .projects__title {
+  text-align: center;
+  font-size: 2rem;
+}
+.projects__title-link {
   text-align: center;
   font-size: 2rem;
 }
