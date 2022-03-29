@@ -385,7 +385,8 @@ li {
     margin-top: -5rem;
   }
   .desc__block {
-    padding: 1.5rem;
+    /* padding: 1.5rem; */
+    padding: 3rem 1.5rem ;
   }
   .p__uppercase {
     font-size: 1.8rem;
@@ -396,6 +397,7 @@ li {
   }
   .desc__text {
     font-size: 1.6rem;
+    line-height: 2.6rem;
   }
   /* .desc__text-code {
     font-size: 1.2rem;
