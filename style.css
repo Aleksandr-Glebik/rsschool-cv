@@ -164,11 +164,6 @@ li {
 .desc__text-strong {
   margin: 2rem;
 }
-.desc__text-link {
-  margin: 2rem 0;
-  align-self: start;
-  text-decoration: underline;
-}
 .desc__link {
   text-decoration: none;
   color: #000;
@@ -177,6 +172,14 @@ li {
 }
 .desc__link:hover {
   text-shadow: 0.1rem 0.1rem 0.2rem #4682b4;
+}
+.desc__text-link {
+  margin: 2rem 0;
+  align-self: start;
+  border-bottom: 0.5px solid #4682b4;
+}
+.projects__title-link {
+  color: #4682b4;
 }
 /* .desc__text-code {
   font-size: 1.8rem;
