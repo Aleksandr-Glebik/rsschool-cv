@@ -36,12 +36,16 @@ I have taken many courses, the list is given below, at the moment I am taking th
     * [Vanilla JavaScript (2021)](https://www.udemy.com/course/jacascript-for-beginners/);
     * [JavaScript (2021) Complete guide from 0 to pro](https://www.udemy.com/course/javascript-full-guide/);
     * [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/);
+
+* [![CodeWars](https://www.codewars.com/users/Aleksandr-Glebik/badges/small)](https://www.codewars.com/users/Aleksandr-Glebik);
 ***
 
 ## Projects Example
 * [JSFEPRESCHOOL-portfolio](https://Aleksandr-Glebik.github.io/portfolio-JSFEPRESCHOOL/portfolio/);
 * [JSFEPRESCHOOL-movie-app](https://Aleksandr-Glebik.github.io/movie-app-JSFEPRESCHOOL/movie-app/);
-* [JSFEPRESCHOOL-tic-tac-toe](https://Aleksandr-Glebik.github.io/tic-tac-toe-JSFEPRESCHOOL/tic-tac-toe/);
+* [JSFEPRESCHOOL-tic-tac-toe](https://Aleksandr-Glebik.github.io/tic-tac-toe/tic-tac-toe/);
+* [JSFEPRESCHOOL-random-jokes](https://Aleksandr-Glebik.github.io/random-jokes/);
+* [JSFEPRESCHOOL-eco-sounds](https://Aleksandr-Glebik.github.io/eco-sounds/);
 * [JavaScript (from 0 to pro) - game-on-js](https://Aleksandr-Glebik.github.io/game-on-js/);
 * [Vanilla JS - paint-js](https://Aleksandr-Glebik.github.io/paint-js/);
 
