@@ -32,6 +32,8 @@ li {
 .p__uppercase {
   font-family: "Dancing Script", cursive;
   font-size: 2.2rem;
+  line-height: 3.3rem;
+  letter-spacing: 2px;
 }
 .wrapper {
   max-width: 1024px;
@@ -85,10 +87,10 @@ li {
   font-size: 1.4rem;
   list-style-type: none;
   margin-bottom: 0.5rem;
+  transition: 0.8s;
 }
 .info__text:hover {
   transform: scale(1.05);
-  transition: 0.8s;
 }
 
 .info__icon {
@@ -166,10 +168,10 @@ li {
   text-decoration: none;
   color: #000;
   font-weight: 400;
+  transition: 0.5s;
 }
 .desc__link:hover {
   text-shadow: 0.1rem 0.1rem 0.2rem #4682b4;
-  transition: 0.8s;
 }
 /* .desc__text-code {
   font-size: 1.8rem;
@@ -244,10 +246,12 @@ li {
   height: 16rem;
   border-radius: 1rem;
   margin: 1rem 0;
+  object-fit: cover;
+  transition: 0.5s;
 }
 .projects__image:hover {
   transform: scale(1.02);
-  transition: 0.8s;
+
 }
 .projects__title {
   text-align: center;
@@ -381,16 +385,19 @@ li {
     margin-top: -5rem;
   }
   .desc__block {
-    padding: 1.5rem;
+    /* padding: 1.5rem; */
+    padding: 3rem 1.5rem ;
   }
   .p__uppercase {
     font-size: 1.8rem;
+    line-height: 2.7rem;
   }
   .desc__text-strong {
     margin: 1.5rem;
   }
   .desc__text {
     font-size: 1.6rem;
+    line-height: 2.6rem;
   }
   /* .desc__text-code {
     font-size: 1.2rem;
