@@ -246,10 +246,12 @@ li {
   height: 16rem;
   border-radius: 1rem;
   margin: 1rem 0;
+  object-fit: cover;
+  transition: 0.5s;
 }
 .projects__image:hover {
   transform: scale(1.02);
-  transition: 0.8s;
+
 }
 .projects__title {
   text-align: center;
