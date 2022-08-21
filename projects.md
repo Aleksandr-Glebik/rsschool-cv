@@ -12,6 +12,17 @@
 ***
 
 ## **Courses:**
+
+### 8. [JavaScript/Front-end. Stage 1](https://rs.school/js/);
+### **Projects:**
+* [Shelter](https://aleksandr-glebik.github.io/rsschool-JSFE2022Q1-shelter/shelter/pages/main/);
+* [Mem-slider](https://aleksandr-glebik.github.io/cssMemSlider/cssMemSlider/index.html);
+* [CSS-mem-slider](https://aleksandr-glebik.github.io/cssMemSliderWithoutJS/cssMemSlider/index.html);
+* [Virtual-keyboard](https://aleksandr-glebik.github.io/rss-virtual-keyboard/);
+* [HTML-builder](https://github.com/Aleksandr-Glebik/HTML-builder);
+* [Clean-code](https://github.com/Aleksandr-Glebik/clean-code-s1e1);
+* [Self-introduction](https://github.com/Aleksandr-Glebik/rsschool-JSFE2022Q1-self-introduction);
+
 ### 7. [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/);
 ### **Projects:**
 * [Portfolio](https://Aleksandr-Glebik.github.io/portfolio-JSFEPRESCHOOL/portfolio/);
