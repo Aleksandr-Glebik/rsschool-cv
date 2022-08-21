@@ -13,6 +13,10 @@
 
 ## **Courses:**
 
+### 11. [ULBI-TV - React - Redux](https://www.youtube.com/c/UlbiTV);
+### **Projects:**
+* [Calendar tasks](https://aleksandr-glebik.github.io/ulbi-tv-real-task/);
+
 ### 10. [React JS. Practical course (2020)](https://www.udemy.com/course/react-2020-complete-guide/);
 ### **Projects:**
 * [React-quiz](https://react-quiz-29ea8.web.app/);
