@@ -13,6 +13,11 @@
 
 ## **Courses:**
 
+### 10. [React JS. Practical course (2020)](https://www.udemy.com/course/react-2020-complete-guide/);
+### **Projects:**
+* [React-quiz](https://react-quiz-29ea8.web.app/);
+* [React-hooks](https://aleksandr-glebik.github.io/react-hooks/);
+
 ### 9. [IT-KAMASUTRA - React JS, path of Samurai 1.0](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8);
 ### **Projects:**
 * [Social-network](https://aleksandr-glebik.github.io/it-kamasutra/);
