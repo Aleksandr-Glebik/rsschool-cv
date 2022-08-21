@@ -47,6 +47,7 @@
 * [Game-on-js](https://Aleksandr-Glebik.github.io/game-on-js/);
 * [Dropdown-JS](https://Aleksandr-Glebik.github.io/dropdown-JS/);
 * [Page-layout](https://aleksandr-glebik.github.io/page-layout/);
+* [Display-info-from-the-server](https://aleksandr-glebik.github.io/displaying-information-from-the-server/);
 
 
 ### 5. [Vanilla JavaScript (2021)](https://www.udemy.com/course/jacascript-for-beginners/);
