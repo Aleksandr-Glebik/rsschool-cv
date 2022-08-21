@@ -12,6 +12,30 @@
 ***
 
 ## **Courses:**
+
+### 11. [ULBI-TV - React - Redux](https://www.youtube.com/c/UlbiTV);
+### **Projects:**
+* [Calendar tasks](https://aleksandr-glebik.github.io/ulbi-tv-real-task/);
+
+### 10. [React JS. Practical course (2020)](https://www.udemy.com/course/react-2020-complete-guide/);
+### **Projects:**
+* [React-quiz](https://react-quiz-29ea8.web.app/);
+* [React-hooks](https://aleksandr-glebik.github.io/react-hooks/);
+
+### 9. [IT-KAMASUTRA - React JS, path of Samurai 1.0](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8);
+### **Projects:**
+* [Social-network](https://aleksandr-glebik.github.io/it-kamasutra/);
+
+### 8. [JavaScript/Front-end. Stage 1](https://rs.school/js/);
+### **Projects:**
+* [Shelter](https://aleksandr-glebik.github.io/rsschool-JSFE2022Q1-shelter/shelter/pages/main/);
+* [Mem-slider](https://aleksandr-glebik.github.io/cssMemSlider/cssMemSlider/index.html);
+* [CSS-mem-slider](https://aleksandr-glebik.github.io/cssMemSliderWithoutJS/cssMemSlider/index.html);
+* [Virtual-keyboard](https://aleksandr-glebik.github.io/rss-virtual-keyboard/);
+* [HTML-builder](https://github.com/Aleksandr-Glebik/HTML-builder);
+* [Clean-code](https://github.com/Aleksandr-Glebik/clean-code-s1e1);
+* [Self-introduction](https://github.com/Aleksandr-Glebik/rsschool-JSFE2022Q1-self-introduction);
+
 ### 7. [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/);
 ### **Projects:**
 * [Portfolio](https://Aleksandr-Glebik.github.io/portfolio-JSFEPRESCHOOL/portfolio/);
@@ -27,6 +51,7 @@
 * [Game-on-js](https://Aleksandr-Glebik.github.io/game-on-js/);
 * [Dropdown-JS](https://Aleksandr-Glebik.github.io/dropdown-JS/);
 * [Page-layout](https://aleksandr-glebik.github.io/page-layout/);
+* [Display-info-from-the-server](https://aleksandr-glebik.github.io/displaying-information-from-the-server/);
 
 
 ### 5. [Vanilla JavaScript (2021)](https://www.udemy.com/course/jacascript-for-beginners/);
