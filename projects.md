@@ -13,6 +13,10 @@
 
 ## **Courses:**
 
+### 9. [IT-KAMASUTRA - React JS, path of Samurai 1.0](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8);
+### **Projects:**
+* [Social-network](https://aleksandr-glebik.github.io/it-kamasutra/);
+
 ### 8. [JavaScript/Front-end. Stage 1](https://rs.school/js/);
 ### **Projects:**
 * [Shelter](https://aleksandr-glebik.github.io/rsschool-JSFE2022Q1-shelter/shelter/pages/main/);
