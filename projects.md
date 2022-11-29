@@ -1,5 +1,7 @@
 # Aleksandr Glebik
+
 ## Guide to gitHub (Links to projects are listed in descending order of complexity or completion date)
+
 ***
 ## **Courses:**
 
