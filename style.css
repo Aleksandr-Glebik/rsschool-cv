@@ -37,6 +37,7 @@ li {
   line-height: 2.7rem;
   letter-spacing: 1px;
   font-weight: 200;
+  text-align: justify;
 }
 .wrapper {
   max-width: 1024px;
