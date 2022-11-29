@@ -1,28 +1,26 @@
 # Aleksandr Glebik
-## Guide to gitHub
-### Links to projects are listed in descending order of complexity and completion date
+
+## Guide to gitHub (Links to projects are listed in descending order of complexity or completion date)
 
 ***
-
-## [Aleksandr Glebik - GitHub](https://github.com/Aleksandr-Glebik)
-## [Aleksandr Glebik - CV](https://Aleksandr-Glebik.github.io/rsschool-cv/)
-
-[![CodeWars](https://www.codewars.com/users/Aleksandr-Glebik/badges/large)](https://www.codewars.com/users/Aleksandr-Glebik)
-
-***
-
 ## **Courses:**
+
+### 12. [Mishanep - React - Redux](https://www.youtube.com/@mishanep);
+### **Projects:**
+* [Book Store](https://aleksandr-glebik.github.io/react-material-ui/);
+* [React Router](https://aleksandr-glebik.github.io/react-router-6/);
 
 ### 11. [ULBI-TV - React - Redux](https://www.youtube.com/c/UlbiTV);
 ### **Projects:**
 * [Calendar tasks](https://aleksandr-glebik.github.io/ulbi-tv-real-task/);
+* [Online Store](https://aleksandr-glebik.github.io/react-online-store/);
 
 ### 10. [React JS. Practical course (2020)](https://www.udemy.com/course/react-2020-complete-guide/);
 ### **Projects:**
 * [React-quiz](https://react-quiz-29ea8.web.app/);
 * [React-hooks](https://aleksandr-glebik.github.io/react-hooks/);
 
-### 9. [IT-KAMASUTRA - React JS, path of Samurai 1.0](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8);
+### 9. [IT-KAMASUTRA - React JS, path of Samurai 1.0 / 2.0 ](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8);
 ### **Projects:**
 * [Social-network](https://aleksandr-glebik.github.io/it-kamasutra/);
 
@@ -53,7 +51,6 @@
 * [Page-layout](https://aleksandr-glebik.github.io/page-layout/);
 * [Display-info-from-the-server](https://aleksandr-glebik.github.io/displaying-information-from-the-server/);
 
-
 ### 5. [Vanilla JavaScript (2021)](https://www.udemy.com/course/jacascript-for-beginners/);
 ### **Projects:**
 * [Momentum-dash](https://Aleksandr-Glebik.github.io/momentum-dash/);
@@ -68,7 +65,6 @@
 * [Tabs](https://Aleksandr-Glebik.github.io/tabs/);
 * [Photo-filter-JS](https://Aleksandr-Glebik.github.io/photo-filter-JS/);
 * [Slider-on-JS](https://Aleksandr-Glebik.github.io/slider-on-JS/);
-
 
 ### 3. Vladilen Minin. Maraphone 5 days.
 ### **Projects:**

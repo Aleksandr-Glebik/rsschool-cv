@@ -13,18 +13,19 @@
 ***
 ## About Me
 
-For more than 1 year  I have been studying to be a front-end developer and learning English.
-I took many courses, studied and continue to study: HTML, CSS, JS, React, Redux, TS, NodeJS, WebPack, GitHub, Figma.
-Looking for a job with specialization "React frontend developer"
+For more than 1.5 year I have been studying to be a front-end developer and learning English. I took many courses, studied and continue to study: HTML, CSS, JavaScript, TypeScript, React, Redux, NodeJS, WebPack, GitHub, Figma.
+I am fixing the whole theory in practice, realizing large and small projects, all steps i save to my github repository
+I have taken many courses and continue to study.
+Now I am looking for a company to implement all my knowledge and be useful to the company.
 
 ***
 ## Skills
 - **HTML**;
 - **CSS**;
-- **JS**;
+- **JavaScript**;
+- **TypeScript**;
 - **React**;
 - **Redux**;
-- **TS**;
 - **NodeJS**;
 - **WebPack**;
 - **Git / GitHub**;
@@ -42,14 +43,20 @@ Looking for a job with specialization "React frontend developer"
     * [JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/);
     * [JavaScript/Front-end. Stage 1](https://rs.school/js/);
     * [IT-KAMASUTRA - React JS, path of Samurai 1.0](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DNVy1OCUpG3i5lyxyBWhGZ8);
+    * [IT-KAMASUTRA - React JS, path of Samurai 2.0](https://www.youtube.com/playlist?list=PLcvhF2Wqh7DM3z1XqMw0kPuxpbyMo3HvN);
     * [React JS. Practical course (2020)](https://www.udemy.com/course/react-2020-complete-guide/);
     * [ULBI-TV - React - Redux](https://www.youtube.com/c/UlbiTV);
+    * [Mishanep - React - Redux](https://www.youtube.com/@mishanep);
+    * [VladilenMinin - React - Redux](https://www.youtube.com/@VladilenMinin);
 
 * [![CodeWars](https://www.codewars.com/users/Aleksandr-Glebik/badges/small)](https://www.codewars.com/users/Aleksandr-Glebik)
 ***
 
 ## Projects Example
+* [Book Store](https://aleksandr-glebik.github.io/react-material-ui/);
+* [React Router](https://aleksandr-glebik.github.io/react-router-6/);
 * [Calendar tasks](https://aleksandr-glebik.github.io/ulbi-tv-real-task/);
+* [Online Store](https://aleksandr-glebik.github.io/react-online-store/);
 * [React-quiz](https://react-quiz-29ea8.web.app/);
 * [CSS-mem-slider](https://aleksandr-glebik.github.io/cssMemSliderWithoutJS/cssMemSlider/index.html);
 * [Virtual-keyboard](https://aleksandr-glebik.github.io/rss-virtual-keyboard/);
@@ -65,7 +72,7 @@ Looking for a job with specialization "React frontend developer"
 ***
 ## Languages
 - Russian - Native;
-- English - A1 (studying now);
+- English - A2 (studying now);
 - Polish - A1;
 
 
