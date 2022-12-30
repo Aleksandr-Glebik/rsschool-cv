@@ -3,6 +3,10 @@
 ***
 ## **Courses:**
 
+### 13. Test Task
+### **Projects:**
+* [Text Editor](https://aleksandr-glebik.github.io/text-editor/);
+
 ### 12. [Mishanep - React - Redux](https://www.youtube.com/@mishanep);
 ### **Projects:**
 * [Book Store](https://aleksandr-glebik.github.io/react-material-ui/);

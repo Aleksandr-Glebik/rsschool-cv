@@ -53,6 +53,8 @@ Now I am looking for a company to implement all my knowledge and be useful to th
 ***
 
 ## Projects Example
+* [Text Editor](https://aleksandr-glebik.github.io/text-editor/);
+* [IT-Kamasutra](https://aleksandr-glebik.github.io/it-kamasutra/);
 * [Book Store](https://aleksandr-glebik.github.io/react-material-ui/);
 * [React Router](https://aleksandr-glebik.github.io/react-router-6/);
 * [Calendar tasks](https://aleksandr-glebik.github.io/ulbi-tv-real-task/);
