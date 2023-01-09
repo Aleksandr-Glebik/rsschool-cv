@@ -13,9 +13,8 @@
 ***
 ## About Me
 
-For more than 1.5 year I have been studying to be a front-end developer and learning English. I took many courses, studied and continue to study: HTML, CSS, JavaScript, TypeScript, React, Redux, NodeJS, WebPack, GitHub, Figma.
-I am fixing the whole theory in practice, realizing large and small projects, all steps i save to my github repository
-I have taken many courses and continue to study.
+I have been in the IT field for about 2 years as freelance Frontend Developer.
+During this time, I learned the basics of front-end development: HTML, CSS, JavaScript, as well as TypeScript, React and Redux-Toolkit. As I studied, I performed tasks using more modern and advanced technologies, I am currently working using JavaScript, TypeScript, React, React-Redux.
 Now I am looking for a company to implement all my knowledge and be useful to the company.
 
 ***
@@ -30,8 +29,8 @@ Now I am looking for a company to implement all my knowledge and be useful to th
 - **WebPack**;
 - **Git / GitHub**;
 - **Figma**;
-***
 
+***
 ## Education
 * **University:** Belarusian State Technological University, specialty "mechanical engineer";
 
