@@ -47,11 +47,14 @@ Now I am looking for a company to implement all my knowledge and be useful to th
     * [ULBI-TV - React - Redux](https://www.youtube.com/c/UlbiTV);
     * [Mishanep - React - Redux](https://www.youtube.com/@mishanep);
     * [VladilenMinin - React - Redux](https://www.youtube.com/@VladilenMinin);
+    * [Archakov Blog - React - Redux](https://www.youtube.com/@ArchakovBlog);
 
 * [![CodeWars](https://www.codewars.com/users/Aleksandr-Glebik/badges/small)](https://www.codewars.com/users/Aleksandr-Glebik)
 ***
 
 ## Projects Example
+* [Flight Tickets](https://aleksandr-glebik.github.io/flight-tickets/);
+* [React Pizza](https://Aleksandr-Glebik.github.io/react-pizza-v2);
 * [Text Editor](https://aleksandr-glebik.github.io/text-editor/);
 * [IT-Kamasutra](https://aleksandr-glebik.github.io/it-kamasutra/);
 * [Book Store](https://aleksandr-glebik.github.io/react-material-ui/);
