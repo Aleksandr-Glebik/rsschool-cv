@@ -5,9 +5,14 @@
 ***
 ## **Courses:**
 
-### 13. Test Task
+### 14. Test Task
 ### **Projects:**
 * [Text Editor](https://aleksandr-glebik.github.io/text-editor/);
+* [Flight Tickets](https://aleksandr-glebik.github.io/flight-tickets/);
+
+### 13. [Archakov Blog - React - Redux](https://www.youtube.com/@ArchakovBlog);
+### **Projects:**
+* [React Pizza](https://Aleksandr-Glebik.github.io/react-pizza-v2);
 
 ### 12. [Mishanep - React - Redux](https://www.youtube.com/@mishanep);
 ### **Projects:**
