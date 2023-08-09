@@ -13,8 +13,8 @@
 ***
 ## About Me
 
-I have been in the IT field for about 2 years as freelance Frontend Developer.
-During this time, I learned the basics of front-end development: HTML, CSS, JavaScript, as well as TypeScript, React and Redux-Toolkit. As I studied, I performed tasks using more modern and advanced technologies, I am currently working using JavaScript, TypeScript, React, React-Redux.
+I am a freelance front-end developer with over 2 years of experience in IT.
+During this time, I learned the basics of front-end development: HTML, CSS, JavaScript, as well as TypeScript, React and Redux. As I studied, I performed tasks using more modern and advanced technologies, I am currently working using JavaScript, TypeScript, React, React-Redux.
 Now I am looking for a company to implement all my knowledge and be useful to the company.
 
 ***
@@ -27,7 +27,7 @@ Now I am looking for a company to implement all my knowledge and be useful to th
 - **Redux**;
 - **NodeJS**;
 - **WebPack**;
-- **Git / GitHub**;
+- **Git / GitHub / GitLab**;
 - **Figma**;
 
 ***
@@ -48,11 +48,18 @@ Now I am looking for a company to implement all my knowledge and be useful to th
     * [Mishanep - React - Redux](https://www.youtube.com/@mishanep);
     * [VladilenMinin - React - Redux](https://www.youtube.com/@VladilenMinin);
     * [Archakov Blog - React - Redux](https://www.youtube.com/@ArchakovBlog);
+    * [Elena Litvinova - React - Redux](https://www.youtube.com/@webelart);
 
 * [![CodeWars](https://www.codewars.com/users/Aleksandr-Glebik/badges/small)](https://www.codewars.com/users/Aleksandr-Glebik)
 ***
 
 ## Projects Example
+* [My CV on React](https://aleksandr-glebik.github.io/cv-glebikaa/);
+* [Test task for company: Sector Business](https://aleksandr-glebik.github.io/sector-business-test-task/);
+* [Test task for company: Horizont](https://aleksandr-glebik.github.io/horizont-test-task/);
+* [React-quiz-functional-component](https://aleksandr-glebik.github.io/react-quiz-fc/);
+* [Test task for company: H2O](https://aleksandr-glebik.github.io/h2o_test_task/);
+* [React Aim Game](https://aleksandr-glebik.github.io/react-aim-game/);
 * [Flight Tickets](https://aleksandr-glebik.github.io/flight-tickets/);
 * [React Pizza](https://Aleksandr-Glebik.github.io/react-pizza-v2);
 * [Text Editor](https://aleksandr-glebik.github.io/text-editor/);
@@ -61,7 +68,7 @@ Now I am looking for a company to implement all my knowledge and be useful to th
 * [React Router](https://aleksandr-glebik.github.io/react-router-6/);
 * [Calendar tasks](https://aleksandr-glebik.github.io/ulbi-tv-real-task/);
 * [Online Store](https://aleksandr-glebik.github.io/react-online-store/);
-* [React-quiz](https://react-quiz-29ea8.web.app/);
+* [React-quiz-class-components](https://react-quiz-29ea8.web.app/);
 * [CSS-mem-slider](https://aleksandr-glebik.github.io/cssMemSliderWithoutJS/cssMemSlider/index.html);
 * [Virtual-keyboard](https://aleksandr-glebik.github.io/rss-virtual-keyboard/);
 * [Shelter](https://aleksandr-glebik.github.io/rsschool-JSFE2022Q1-shelter/shelter/pages/main/);

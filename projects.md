@@ -3,8 +3,17 @@
 ***
 ## **Courses:**
 
+### 15. Others
+### **Projects:**
+* [My CV on React](https://aleksandr-glebik.github.io/cv-glebikaa/);
+* [React quiz functional component](https://aleksandr-glebik.github.io/react-quiz-fc/);
+* [React Aim Game](https://aleksandr-glebik.github.io/react-aim-game/);
+
 ### 14. Test Task
 ### **Projects:**
+* [Test task for company: Sector Business](https://aleksandr-glebik.github.io/sector-business-test-task/);
+* [Test task for company: H2O](https://aleksandr-glebik.github.io/h2o_test_task/);
+* [Test task for company: Horizont](https://aleksandr-glebik.github.io/horizont-test-task/);
 * [Text Editor](https://aleksandr-glebik.github.io/text-editor/);
 * [Flight Tickets](https://aleksandr-glebik.github.io/flight-tickets/);
 
