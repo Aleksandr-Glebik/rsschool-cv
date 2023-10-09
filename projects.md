@@ -14,7 +14,7 @@
 ### 14. Test Task
 ### **Projects:**
 * [Test task for company: Lead pro group](https://aleksandr-glebik.github.io/lead-pro-group-test-task/);
-* [Test task for company: Sector Business](https://aleksandr-glebik.github.io/sector-business-test-task/);
+ company: Sector Business](https://aleksandr-glebik.github.io/sector-business-test-task/);
 * [Test task for company: H2O](https://aleksandr-glebik.github.io/h2o_test_task/);
 * [Test task for company: Horizont](https://aleksandr-glebik.github.io/horizont-test-task/);
 * [Text Editor](https://aleksandr-glebik.github.io/text-editor/);
