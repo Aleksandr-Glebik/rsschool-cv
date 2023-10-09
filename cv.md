@@ -55,6 +55,7 @@ Now I am looking for a company to implement all my knowledge and be useful to th
 
 ## Projects Example
 * [My CV on React](https://aleksandr-glebik.github.io/cv-glebikaa/);
+* [Test task for company: Lead pro group](https://aleksandr-glebik.github.io/lead-pro-group-test-task/);
 * [Test task for company: Sector Business](https://aleksandr-glebik.github.io/sector-business-test-task/);
 * [Test task for company: Horizont](https://aleksandr-glebik.github.io/horizont-test-task/);
 * [React-quiz-functional-component](https://aleksandr-glebik.github.io/react-quiz-fc/);
