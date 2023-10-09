@@ -1,5 +1,3 @@
-# rsschool-cv
-
 1. Markdown - CV
 https://Aleksandr-Glebik.github.io/rsschool-cv/cv
 
